@@ -16,6 +16,10 @@
 
 3. Choose your emulator and run it!
 
+## Bibliography
+- [Ask for external storage in Android](https://medium.com/@kezzieleo/manage-external-storage-permission-android-studio-java-9c3554cf79a7)
+- [Channel between Flutter and Android](https://www.youtube.com/watch?v=vfh2KCFEuDo)
+
 > [!TIP]
 > The best way to say thank you is starring this project :)
 
