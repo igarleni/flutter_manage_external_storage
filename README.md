@@ -10,11 +10,11 @@
 - Enable only Android and IOS boxes and disable MacOS, Windows, Web boxes.
 
 2. Modify this files with the code found in this repo. You can find in the commits what have been changed:
-- main.dart
-- android/settings.gradle
-- MainActivity.java
-- main/AndroidManifest.xml
-- android/app/build.gradle (careful, there are many build.gradle files)
+- [lib/main.dart](lib/main.dart)
+- [android/settings.gradle](android/settings.gradle)
+- [MainActivity.java](android/app/src/main/java/com/igarleni/flutter_manage_external_storage/MainActivity.java)
+- [main/AndroidManifest.xml](android/app/src/main/AndroidManifest.xml)
+- [android/app/build.gradle](android/build.gradle) (careful, there are many build.gradle files)
 
 3. Choose your emulator and run it!
 
