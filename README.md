@@ -2,7 +2,7 @@
   Flutter app that ask for manage_external_storage permissions
 
 ## Steps to follow
-0.- Download Android Studio and install Flutter/Dart Plugins.
+0. Download Android Studio and install Flutter/Dart Plugins.
 
 1. Create a Flutter Project with this configuration:
 - Language in Android: Java
